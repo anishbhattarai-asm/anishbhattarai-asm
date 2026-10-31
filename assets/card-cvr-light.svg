@@ -1,13 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="410" height="170" viewBox="0 0 410 170" role="img" aria-label="CVR: Turns a source file into a typewriter-style video in your real VS Code theme">
+<svg xmlns="http://www.w3.org/2000/svg" width="824" height="250" viewBox="0 0 824 250" role="img" aria-label="CVR: Turns a source file into a typewriter-style video in your real VS Code theme">
 <title>CVR: Turns a source file into a typewriter-style video in your real VS Code theme</title>
 <style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}</style>
-<rect x=".75" y=".75" width="408.5" height="168.5" rx="14" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.5"/>
-<rect x="20" y="20" width="44" height="44" rx="12" fill="rgba(14,116,144,0.10)"/>
-<g transform="translate(30 30) scale(1)" fill="none" stroke="#0e7490" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" color="#0e7490"><rect x="3" y="4.5" width="18" height="15" rx="2"/><path d="M3 8.5h18M9.5 11.5l-2.5 2.5 2.5 2.5M14.5 11.5l2.5 2.5-2.5 2.5"/></g>
-<text x="78" y="40" font-size="18" font-weight="700" fill="#1f2328">CVR</text>
-<text class="mono" x="78" y="60" font-size="11" letter-spacing=".8" fill="#0e7490">VIDEO AND STREAMING</text>
-<text x="20" y="98" font-size="14" fill="#59636e">Turns a source file into a typewriter-style video in your</text>
-<text x="20" y="117" font-size="14" fill="#59636e">real VS Code theme</text>
-<circle cx="25" cy="147.5" r="5.5" fill="#3572a5"/><text x="37" y="152" font-size="13" fill="#59636e">Python</text>
-<rect x="343" y="137" width="47" height="21" rx="10.5" fill="rgba(14,116,144,0.10)"/><text x="366.5" y="151.5" font-size="12" text-anchor="middle" fill="#0e7490">PyPI</text>
+<rect x=".75" y=".75" width="822.5" height="248.5" rx="16" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.5"/>
+<rect x="28" y="28" width="56" height="56" rx="14" fill="rgba(14,116,144,0.10)"/>
+<g transform="translate(40 40) scale(1.33)" fill="none" stroke="#0e7490" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" color="#0e7490"><rect x="3" y="4.5" width="18" height="15" rx="2"/><path d="M3 8.5h18M9.5 11.5l-2.5 2.5 2.5 2.5M14.5 11.5l2.5 2.5-2.5 2.5"/></g>
+<text x="100" y="58" font-size="26" font-weight="700" fill="#1f2328">CVR</text>
+<text class="mono" x="101" y="80" font-size="11.5" letter-spacing=".8" fill="#0e7490">VIDEO AND STREAMING</text>
+<text x="28" y="120" font-size="16" fill="#59636e">Turns a source file into a typewriter-style video in</text>
+<text x="28" y="143" font-size="16" fill="#59636e">your real VS Code theme</text>
+<rect x="28" y="164" width="400" height="34" rx="8" fill="#ffffff" stroke="#d1d9e0"/>
+<text class="mono" x="42" y="186" font-size="13" fill="#1f2328"><tspan fill="#0e7490">$</tspan> pip install pycvr</text>
+<circle cx="33" cy="224.5" r="5.5" fill="#3572a5"/><text x="45" y="229" font-size="13" fill="#59636e">Python</text><text x="109.51" y="229" font-size="13" fill="#59636e">PyPI: pycvr</text><text x="202.23" y="229" font-size="13" fill="#59636e">FFmpeg bundled</text>
+<rect x="456" y="24" width="344" height="202" rx="12" fill="#ffffff" stroke="#d1d9e0"/>
+<text class="mono" x="478" y="54" font-size="12" letter-spacing=".6" fill="#59636e">HOW IT WORKS</text>
+<path d="M490 86V168" stroke="#d1d9e0" stroke-width="2" stroke-dasharray="3 4"/>
+<circle cx="490" cy="86" r="12" fill="rgba(14,116,144,0.10)" stroke="#0e7490" stroke-width="1.5"/>
+<text x="490" y="90.5" font-size="12.5" font-weight="700" text-anchor="middle" fill="#0e7490">1</text>
+<text x="514" y="84" font-size="14" font-weight="700" fill="#1f2328">Read</text>
+<text x="514" y="101" font-size="12.5" fill="#59636e">The VS Code themes you have installed</text>
+<circle cx="490" cy="127" r="12" fill="rgba(14,116,144,0.10)" stroke="#0e7490" stroke-width="1.5"/>
+<text x="490" y="131.5" font-size="12.5" font-weight="700" text-anchor="middle" fill="#0e7490">2</text>
+<text x="514" y="125" font-size="14" font-weight="700" fill="#1f2328">Highlight</text>
+<text x="514" y="142" font-size="12.5" fill="#59636e">The exact colour VS Code gives each token</text>
+<circle cx="490" cy="168" r="12" fill="rgba(14,116,144,0.10)" stroke="#0e7490" stroke-width="1.5"/>
+<text x="490" y="172.5" font-size="12.5" font-weight="700" text-anchor="middle" fill="#0e7490">3</text>
+<text x="514" y="166" font-size="14" font-weight="700" fill="#1f2328">Render</text>
+<text x="514" y="183" font-size="12.5" fill="#59636e">A typing video of the length you ask for</text>
+<text x="478" y="208" font-size="12.5" fill="#59636e">Desktop app, cvr command or Python library.</text>
 </svg>
