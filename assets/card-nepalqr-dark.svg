@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="170" viewBox="0 0 410 170" role="img" aria-label="nepalqr: Turns a merchant's free static NepalQR into a dynamic QR that carries the amount">
+<title>nepalqr: Turns a merchant's free static NepalQR into a dynamic QR that carries the amount</title>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}</style>
+<rect x=".75" y=".75" width="408.5" height="168.5" rx="14" fill="#151b23" stroke="#3d444d" stroke-width="1.5"/>
+<rect x="20" y="20" width="44" height="44" rx="12" fill="rgba(34,211,238,0.12)"/>
+<g transform="translate(30 30) scale(1)" fill="none" stroke="#22d3ee" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" color="#22d3ee"><rect x="3.5" y="3.5" width="6.5" height="6.5" rx="1.2"/><rect x="14" y="3.5" width="6.5" height="6.5" rx="1.2"/><rect x="3.5" y="14" width="6.5" height="6.5" rx="1.2"/><path d="M14 14h2.5v2.5H14zM20.5 14v2.5M14 20.5h2.5M18.5 18.5h2v2"/></g>
+<text x="78" y="40" font-size="18" font-weight="700" fill="#f0f6fc">nepalqr</text>
+<text class="mono" x="78" y="60" font-size="11" letter-spacing=".8" fill="#22d3ee">PAYMENTS IN NEPAL</text>
+<text x="20" y="98" font-size="14" fill="#9198a1">Turns a merchant's free static NepalQR into a dynamic</text>
+<text x="20" y="117" font-size="14" fill="#9198a1">QR that carries the amount</text>
+<circle cx="25" cy="147.5" r="5.5" fill="#f1e05a"/><text x="37" y="152" font-size="13" fill="#9198a1">JavaScript</text>
+<rect x="322.6" y="137" width="67.4" height="21" rx="10.5" fill="rgba(34,211,238,0.12)"/><text x="356.3" y="151.5" font-size="12" text-anchor="middle" fill="#22d3ee">Web app</text>
+</svg>

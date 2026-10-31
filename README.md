@@ -1,35 +1,54 @@
-## Hi, I'm Anish Bhattarai
+<a href="https://anishbhattarai-asm.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/banner-dark.svg"><img alt="Anish Bhattarai: Open source tools for payments in Nepal, math animation, and video and streaming automation." src="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/banner-light.svg" width="100%"></picture></a>
 
-I build open source tools for payments in Nepal, math animation, and video and streaming automation.
+<p align="center">
+  <a href="https://anishbhattarai-asm.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/link-portfolio-dark.svg"><img alt="Portfolio" src="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/link-portfolio-light.svg" height="40"></picture></a>
+  <a href="https://www.npmjs.com/org/nepalpay"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/link-npm-dark.svg"><img alt="@nepalpay on npm" src="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/link-npm-light.svg" height="40"></picture></a>
+  <a href="https://pypi.org/project/dwfs/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/link-dwfs-dark.svg"><img alt="dwfs on PyPI" src="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/link-dwfs-light.svg" height="40"></picture></a>
+  <a href="https://pypi.org/project/pycvr/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/link-pycvr-dark.svg"><img alt="pycvr on PyPI" src="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/link-pycvr-light.svg" height="40"></picture></a>
+</p>
 
-**Portfolio:** [anishbhattarai-asm.github.io](https://anishbhattarai-asm.github.io/) &nbsp;&middot;&nbsp;
-**npm:** [@nepalpay](https://www.npmjs.com/org/nepalpay)
+## Projects
 
-### Payments in Nepal
+<p align="center">
+  <a href="https://github.com/anishbhattarai-asm/nepal-pay"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/card-nepal-pay-dark.svg"><img alt="nepal-pay: Zero-dependency TypeScript SDKs for accepting eSewa and Khalti payments safely" src="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/card-nepal-pay-light.svg" width="824"></picture></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anishbhattarai-asm/nepalqr"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/card-nepalqr-dark.svg"><img alt="nepalqr: Turns a merchant's free static NepalQR into a dynamic QR that carries the amount" src="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/card-nepalqr-light.svg" width="410"></picture></a>
+  <a href="https://github.com/anishbhattarai-asm/DWFS"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/card-dwfs-dark.svg"><img alt="DWFS: Turns any picture into one continuous line, then spinning circles draw it with Fourier series" src="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/card-dwfs-light.svg" width="410"></picture></a>
+  <a href="https://github.com/anishbhattarai-asm/MPX"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/card-mpx-dark.svg"><img alt="MTPX: Manim animations as Python methods, exported as a PowerPoint deck where each method is one click" src="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/card-mpx-light.svg" width="410"></picture></a>
+  <a href="https://github.com/anishbhattarai-asm/MBDP"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/card-mbdp-dark.svg"><img alt="AttractorH: Cinematic strange attractor renders through Manim, Blender and DaVinci Resolve" src="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/card-mbdp-light.svg" width="410"></picture></a>
+  <a href="https://github.com/anishbhattarai-asm/CVR"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/card-cvr-dark.svg"><img alt="CVR: Turns a source file into a typewriter-style video in your real VS Code theme" src="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/card-cvr-light.svg" width="410"></picture></a>
+  <a href="https://github.com/anishbhattarai-asm/247yt"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/card-247yt-dark.svg"><img alt="Stream Panel: Runs a 24/7 YouTube live stream from your videos or a lofi playlist on a free cloud server" src="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/card-247yt-light.svg" width="410"></picture></a>
+  <a href="https://github.com/anishbhattarai-asm/Discord-Ytlive-automesseger"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/card-discord-ytlive-automesseger-dark.svg"><img alt="Discord YouTube Live Auto Messenger: Posts in your Discord server the moment you go live on YouTube, once per stream" src="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/card-discord-ytlive-automesseger-light.svg" width="410"></picture></a>
+  <a href="https://github.com/anishbhattarai-asm/VCF-Editor"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/card-vcf-editor-dark.svg"><img alt="Cardfile: Free vCard (.vcf) editor that runs entirely in your browser; nothing is uploaded" src="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/card-vcf-editor-light.svg" width="410"></picture></a>
+</p>
+
+<p align="center">
+  <a href="https://anishbhattarai-asm.github.io/DWFS/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/try-dwfs-dark.svg"><img alt="DWFS in your browser" src="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/try-dwfs-light.svg" height="40"></picture></a>
+  <a href="https://anishbhattarai-asm.github.io/nepalqr/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/try-nepalqr-dark.svg"><img alt="nepalqr web app" src="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/try-nepalqr-light.svg" height="40"></picture></a>
+  <a href="https://anishbhattarai-asm.github.io/VCF-Editor/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/try-cardfile-dark.svg"><img alt="Cardfile vCard editor" src="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/try-cardfile-light.svg" height="40"></picture></a>
+</p>
+
+## Tools
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/stack-dark.svg"><img alt="Tools: TypeScript, JavaScript, Node.js, Express, Python, NumPy, OpenCV, FFmpeg, Blender, DaVinci Resolve, OBS Studio, GitHub Actions" src="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/stack-light.svg" width="100%"></picture>
+</p>
+
+<details>
+<summary>All projects as a list</summary>
 
 | Project | What it does | Links |
 |-|-|-|
 | [nepal-pay](https://github.com/anishbhattarai-asm/nepal-pay) | Zero-dependency TypeScript SDKs for accepting eSewa and Khalti payments safely | [npm](https://www.npmjs.com/package/@nepalpay/esewa) &middot; [details](https://anishbhattarai-asm.github.io/projects/nepal-pay/) |
 | [nepalqr](https://github.com/anishbhattarai-asm/nepalqr) | Turns a merchant's free static NepalQR into a dynamic QR that carries the amount | [web app](https://anishbhattarai-asm.github.io/nepalqr/) &middot; [details](https://anishbhattarai-asm.github.io/projects/nepalqr/) |
-
-### Math and animation
-
-| Project | What it does | Links |
-|-|-|-|
 | [DWFS](https://github.com/anishbhattarai-asm/DWFS) | Turns any picture into one continuous line, then spinning circles draw it with Fourier series | [try it](https://anishbhattarai-asm.github.io/DWFS/) &middot; [PyPI](https://pypi.org/project/dwfs/) &middot; [details](https://anishbhattarai-asm.github.io/projects/dwfs/) |
 | [MTPX](https://github.com/anishbhattarai-asm/MPX) | Manim animations as Python methods, exported as a PowerPoint deck where each method is one click | [details](https://anishbhattarai-asm.github.io/projects/mpx/) |
 | [AttractorH](https://github.com/anishbhattarai-asm/MBDP) | Cinematic strange attractor renders through Manim, Blender and DaVinci Resolve | [details](https://anishbhattarai-asm.github.io/projects/mbdp/) |
-
-### Video and streaming
-
-| Project | What it does | Links |
-|-|-|-|
 | [CVR](https://github.com/anishbhattarai-asm/CVR) | Turns a source file into a typewriter-style video in your real VS Code theme | [PyPI](https://pypi.org/project/pycvr/) &middot; [details](https://anishbhattarai-asm.github.io/projects/cvr/) |
 | [Stream Panel](https://github.com/anishbhattarai-asm/247yt) | Runs a 24/7 YouTube live stream from your videos or a lofi playlist on a free cloud server | [details](https://anishbhattarai-asm.github.io/projects/247yt/) |
 | [Discord YouTube Live Auto Messenger](https://github.com/anishbhattarai-asm/Discord-Ytlive-automesseger) | Posts in your Discord server the moment you go live on YouTube, once per stream | [details](https://anishbhattarai-asm.github.io/projects/discord-ytlive-automesseger/) |
-
-### Web apps
-
-| Project | What it does | Links |
-|-|-|-|
 | [Cardfile](https://github.com/anishbhattarai-asm/VCF-Editor) | Free vCard (.vcf) editor that runs entirely in your browser; nothing is uploaded | [open it](https://anishbhattarai-asm.github.io/VCF-Editor/) &middot; [details](https://anishbhattarai-asm.github.io/projects/vcf-editor/) |
+
+</details>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="824" height="250" viewBox="0 0 824 250" role="img" aria-label="nepal-pay: Zero-dependency TypeScript SDKs for accepting eSewa and Khalti payments safely">
+<title>nepal-pay: Zero-dependency TypeScript SDKs for accepting eSewa and Khalti payments safely</title>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}</style>
+<rect x=".75" y=".75" width="822.5" height="248.5" rx="16" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.5"/>
+<rect x="28" y="28" width="56" height="56" rx="14" fill="rgba(14,116,144,0.10)"/>
+<g transform="translate(40 40) scale(1.33)" fill="none" stroke="#0e7490" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" color="#0e7490"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><path d="M2.5 10h19M6.5 15h4"/></g>
+<text x="100" y="58" font-size="26" font-weight="700" fill="#1f2328">nepal-pay</text>
+<text class="mono" x="101" y="80" font-size="11.5" letter-spacing=".8" fill="#0e7490">PAYMENTS IN NEPAL · FEATURED</text>
+<text x="28" y="120" font-size="16" fill="#59636e">Zero-dependency TypeScript SDKs for accepting</text>
+<text x="28" y="143" font-size="16" fill="#59636e">eSewa and Khalti payments safely</text>
+<rect x="28" y="164" width="400" height="34" rx="8" fill="#ffffff" stroke="#d1d9e0"/>
+<text class="mono" x="42" y="186" font-size="13" fill="#1f2328"><tspan fill="#0e7490">$</tspan> npm i @nepalpay/esewa @nepalpay/khalti</text>
+<circle cx="33" cy="224.5" r="5.5" fill="#3178c6"/><text x="45" y="229" font-size="13" fill="#59636e">TypeScript</text>
+<text x="128" y="229" font-size="13" fill="#59636e">Zero runtime dependencies</text>
+<text x="314" y="229" font-size="13" fill="#59636e">MIT</text>
+<rect x="456" y="24" width="344" height="202" rx="12" fill="#ffffff" stroke="#d1d9e0"/>
+<text class="mono" x="478" y="54" font-size="12" letter-spacing=".6" fill="#59636e">SAME THREE CALLS FOR ESEWA AND KHALTI</text>
+<path d="M490 86V168" stroke="#d1d9e0" stroke-width="2" stroke-dasharray="3 4"/>
+<circle cx="490" cy="86" r="12" fill="rgba(14,116,144,0.10)" stroke="#0e7490" stroke-width="1.5"/>
+<text x="490" y="90.5" font-size="12.5" font-weight="700" text-anchor="middle" fill="#0e7490">1</text>
+<text class="mono" x="514" y="84" font-size="14" font-weight="600" fill="#1f2328">initiate()</text>
+<text x="514" y="101" font-size="12.5" fill="#59636e">Start a payment</text>
+<circle cx="490" cy="127" r="12" fill="rgba(14,116,144,0.10)" stroke="#0e7490" stroke-width="1.5"/>
+<text x="490" y="131.5" font-size="12.5" font-weight="700" text-anchor="middle" fill="#0e7490">2</text>
+<text class="mono" x="514" y="125" font-size="14" font-weight="600" fill="#1f2328">parseCallback()</text>
+<text x="514" y="142" font-size="12.5" fill="#59636e">Check the signed redirect</text>
+<circle cx="490" cy="168" r="12" fill="rgba(14,116,144,0.10)" stroke="#0e7490" stroke-width="1.5"/>
+<text x="490" y="172.5" font-size="12.5" font-weight="700" text-anchor="middle" fill="#0e7490">3</text>
+<text class="mono" x="514" y="166" font-size="14" font-weight="600" fill="#1f2328">verify()</text>
+<text x="514" y="183" font-size="12.5" fill="#59636e">Confirm with the gateway</text>
+<text x="478" y="208" font-size="12.5" fill="#59636e">Paid only after the gateway confirms the amount.</text>
+</svg>

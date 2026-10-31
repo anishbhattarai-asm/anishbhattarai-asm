@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="170" viewBox="0 0 410 170" role="img" aria-label="DWFS: Turns any picture into one continuous line, then spinning circles draw it with Fourier series">
+<title>DWFS: Turns any picture into one continuous line, then spinning circles draw it with Fourier series</title>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}</style>
+<rect x=".75" y=".75" width="408.5" height="168.5" rx="14" fill="#151b23" stroke="#3d444d" stroke-width="1.5"/>
+<rect x="20" y="20" width="44" height="44" rx="12" fill="rgba(34,211,238,0.12)"/>
+<g transform="translate(30 30) scale(1)" fill="none" stroke="#22d3ee" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" color="#22d3ee"><circle cx="9.5" cy="13.5" r="6.5"/><path d="M9.5 13.5l4.6-4.6"/><circle cx="14.1" cy="8.9" r="3"/><path d="M14.1 8.9l2.9-.8"/><circle cx="17.6" cy="7.9" r=".9" fill="currentColor"/></g>
+<text x="78" y="40" font-size="18" font-weight="700" fill="#f0f6fc">DWFS</text>
+<text class="mono" x="78" y="60" font-size="11" letter-spacing=".8" fill="#22d3ee">MATH AND ANIMATION</text>
+<text x="20" y="98" font-size="14" fill="#9198a1">Turns any picture into one continuous line, then</text>
+<text x="20" y="117" font-size="14" fill="#9198a1">spinning circles draw it with Fourier series</text>
+<circle cx="25" cy="147.5" r="5.5" fill="#3572a5"/><text x="37" y="152" font-size="13" fill="#9198a1">Python</text>
+<rect x="343" y="137" width="47" height="21" rx="10.5" fill="rgba(34,211,238,0.12)"/><text x="366.5" y="151.5" font-size="12" text-anchor="middle" fill="#22d3ee">PyPI</text><rect x="269.6" y="137" width="67.4" height="21" rx="10.5" fill="rgba(34,211,238,0.12)"/><text x="303.3" y="151.5" font-size="12" text-anchor="middle" fill="#22d3ee">Web app</text>
+</svg>

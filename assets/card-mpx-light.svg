@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="170" viewBox="0 0 410 170" role="img" aria-label="MTPX: Manim animations as Python methods, exported as a PowerPoint deck where each method is one click">
+<title>MTPX: Manim animations as Python methods, exported as a PowerPoint deck where each method is one click</title>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}</style>
+<rect x=".75" y=".75" width="408.5" height="168.5" rx="14" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.5"/>
+<rect x="20" y="20" width="44" height="44" rx="12" fill="rgba(14,116,144,0.10)"/>
+<g transform="translate(30 30) scale(1)" fill="none" stroke="#0e7490" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" color="#0e7490"><rect x="3" y="4" width="18" height="12.5" rx="2"/><path d="M12 16.5V20M8.5 20h7"/><path d="M10.3 7.8v5l4-2.5z"/></g>
+<text x="78" y="40" font-size="18" font-weight="700" fill="#1f2328">MTPX</text>
+<text class="mono" x="78" y="60" font-size="11" letter-spacing=".8" fill="#0e7490">MATH AND ANIMATION</text>
+<text x="20" y="98" font-size="14" fill="#59636e">Manim animations as Python methods, exported as a</text>
+<text x="20" y="117" font-size="14" fill="#59636e">PowerPoint deck where each method is one click</text>
+<circle cx="25" cy="147.5" r="5.5" fill="#3572a5"/><text x="37" y="152" font-size="13" fill="#59636e">Python</text>
+
+</svg>
