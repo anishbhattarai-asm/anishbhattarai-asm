@@ -11,6 +11,7 @@ const SITE = `https://${USER}.github.io`;
 // Absolute so <source srcset> resolves on the profile page too.
 const ASSETS = process.env.ASSETS_URL ?? `https://raw.githubusercontent.com/${USER}/${USER}/main/assets`;
 const NAME = 'Anish Bhattarai';
+const GUIDE = 'https://dev.to/anishbhattaraiasm/accepting-esewa-and-khalti-in-nodejs-the-redirect-is-not-the-payment-4pgo';
 const TAGLINE = ['Open source tools for payments in Nepal,', 'math animation, and video and streaming automation.'];
 
 // box: cmd (shell command), code, link (web address) or text. steps: the "how it works" panel.
@@ -32,7 +33,7 @@ const projects = [
       ['verify()', 'Confirm with the gateway'],
     ],
     footer: 'Paid only after the gateway confirms the amount.',
-    links: [['npm', 'https://www.npmjs.com/package/@nepalpay/esewa'], ['details', `${SITE}/projects/nepal-pay/`]],
+    links: [['npm', 'https://www.npmjs.com/package/@nepalpay/esewa'], ['guide', GUIDE], ['details', `${SITE}/projects/nepal-pay/`]],
   },
   {
     repo: 'nepalqr',
@@ -177,6 +178,7 @@ const headerLinks = [
   { label: '@nepalpay on npm', href: 'https://www.npmjs.com/org/nepalpay', logo: 'npm', file: 'link-npm' },
   { label: 'dwfs on PyPI', href: 'https://pypi.org/project/dwfs/', logo: 'pypi', file: 'link-dwfs' },
   { label: 'pycvr on PyPI', href: 'https://pypi.org/project/pycvr/', logo: 'pypi', file: 'link-pycvr' },
+  { label: 'dev.to guide', href: GUIDE, logo: 'devdotto', file: 'link-devto' },
 ];
 
 const tryLinks = [
@@ -581,7 +583,7 @@ ${pillLinks(tryLinks)}
 </p>
 
 <p align="center">
-${pillLinks(headerLinks.slice(1))}
+${pillLinks(headerLinks.slice(1, 4))}
 </p>
 
 ## Tools

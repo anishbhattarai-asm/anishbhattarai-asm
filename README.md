@@ -5,6 +5,7 @@
   <a href="https://www.npmjs.com/org/nepalpay"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/link-npm-dark.svg"><img alt="@nepalpay on npm" src="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/link-npm-light.svg" height="40"></picture></a>
   <a href="https://pypi.org/project/dwfs/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/link-dwfs-dark.svg"><img alt="dwfs on PyPI" src="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/link-dwfs-light.svg" height="40"></picture></a>
   <a href="https://pypi.org/project/pycvr/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/link-pycvr-dark.svg"><img alt="pycvr on PyPI" src="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/link-pycvr-light.svg" height="40"></picture></a>
+  <a href="https://dev.to/anishbhattaraiasm/accepting-esewa-and-khalti-in-nodejs-the-redirect-is-not-the-payment-4pgo"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/link-devto-dark.svg"><img alt="dev.to guide" src="https://raw.githubusercontent.com/anishbhattarai-asm/anishbhattarai-asm/main/assets/link-devto-light.svg" height="40"></picture></a>
 </p>
 
 ## Projects
@@ -44,7 +45,7 @@
 
 | Project | What it does | Links |
 |-|-|-|
-| [nepal-pay](https://github.com/anishbhattarai-asm/nepal-pay) | Zero-dependency TypeScript SDKs for accepting eSewa and Khalti payments safely | [npm](https://www.npmjs.com/package/@nepalpay/esewa) &middot; [details](https://anishbhattarai-asm.github.io/projects/nepal-pay/) |
+| [nepal-pay](https://github.com/anishbhattarai-asm/nepal-pay) | Zero-dependency TypeScript SDKs for accepting eSewa and Khalti payments safely | [npm](https://www.npmjs.com/package/@nepalpay/esewa) &middot; [guide](https://dev.to/anishbhattaraiasm/accepting-esewa-and-khalti-in-nodejs-the-redirect-is-not-the-payment-4pgo) &middot; [details](https://anishbhattarai-asm.github.io/projects/nepal-pay/) |
 | [nepalqr](https://github.com/anishbhattarai-asm/nepalqr) | Turns a merchant's free static NepalQR into a dynamic QR that carries the amount | [web app](https://anishbhattarai-asm.github.io/nepalqr/) &middot; [details](https://anishbhattarai-asm.github.io/projects/nepalqr/) |
 | [DWFS](https://github.com/anishbhattarai-asm/DWFS) | Turns any picture into one continuous line, then spinning circles draw it | [try it](https://anishbhattarai-asm.github.io/DWFS/) &middot; [PyPI](https://pypi.org/project/dwfs/) &middot; [details](https://anishbhattarai-asm.github.io/projects/dwfs/) |
 | [MTPX](https://github.com/anishbhattarai-asm/MPX) | Manim animations as Python methods, exported as a PowerPoint deck | [details](https://anishbhattarai-asm.github.io/projects/mpx/) |
